@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+profile/
+Direct_blending.jpg
+Pyramid_blending_hw.jpg
+Pyramid_blending2.jpg
